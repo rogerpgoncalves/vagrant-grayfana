@@ -74,3 +74,4 @@ $ while true; do curl http://localhost:8080; done
 Check-out the Graylog inputs and Grafana dashboard!
 
 ![Grafana dashboard](Grafana_dashboard.png?raw=true "Grafana dashboard")
+# vagrant-grayfana
